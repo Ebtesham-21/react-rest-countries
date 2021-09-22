@@ -1,0 +1,10 @@
+.country{
+    background-color: lightblue;
+    border: 2px solid aquamarine;
+    margin: 10px;
+    padding: 5px;
+}
+
+.mail{
+    color: rgb(253, 64, 64);
+}
