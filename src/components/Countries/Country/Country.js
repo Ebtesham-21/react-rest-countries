@@ -9,9 +9,6 @@ const Country = (props) => {
         <div className = "country">
         <h4> This is: {name}</h4>
         <p className = "mail"> Email : {email} Comment : {body}</p>
-
-
-            
         </div>
     );
 };
